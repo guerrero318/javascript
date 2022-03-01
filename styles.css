@@ -1,0 +1,18 @@
+.submit-btn {
+    width: 100%;
+  }
+  #formClone {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  .btn-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
